@@ -38,3 +38,13 @@
  # link
  
  * https://www.recetasnestle.com.ec/recetas/pizza-casera
+
+Algoritmo ejerciciosuma 
+	Escribir "Ingrese el primer numero:"
+	Leer variableQueGuardaElPrimerNumero
+	
+	Escribir "Ingrese el segundo numero:"
+	Leer VariableQueGuardaElSegundoNumero
+	Escribir "El resultado es: ", variableQueGuardaElPrimerNumero + VariableQueGuardaElSegundoNumero
+	
+FinAlgoritmo
