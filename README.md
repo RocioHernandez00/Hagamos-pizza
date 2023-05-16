@@ -1,6 +1,6 @@
 # Hagamos-pizza
 1.# Ingrediente
-2.#  1 Taza Harina todo uso 
+2.#1 Taza Harina todo uso 
  #  Ajo En Polvo al gusto
 # Orégano Fresco al gusto
 5.#  1/2 Cucharadita Sal
