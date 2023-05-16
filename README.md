@@ -1,12 +1,12 @@
 # Hagamos-pizza
-1.Ingrediente
-2. 1 Taza Harina todo uso
-3. Ajo En Polvo al gusto
-4. Orégano Fresco al gusto
-5. 1/2 Cucharadita Sal
-6. 5 Cucharadas de Agua
-7. 5 Cucharadas Aceite De Oliva
-8. 1/2 Taza MAGGI® La Rojita Puré de Tomate
+1.# Ingrediente
+2.#  1 Taza Harina todo uso
+3.#  Ajo En Polvo al gusto
+4.# Orégano Fresco al gusto
+5.#  1/2 Cucharadita Sal
+6.#  5 Cucharadas de Agua
+7.#  5 Cucharadas Aceite De Oliva
+8.#  1/2 Taza MAGGI® La Rojita Puré de Tomate
 9. Sal de Ajo al gusto
 10. Sal de cebolla al gusto
 11. 1 Unidad Tomate Riñón
