@@ -39,6 +39,13 @@
  
  * https://www.recetasnestle.com.ec/recetas/pizza-casera
 
+### Geometria 
+* calcular el volumen de una piramide, un cubo y una esfera
+
+volumen de cualquier piramide 
+
+* el volumen de una piramide 
+
 Algoritmo ejerciciosuma 
 	Escribir "Ingrese el primer numero:"
 	Leer variableQueGuardaElPrimerNumero
