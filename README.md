@@ -52,6 +52,27 @@ volumen de cualquier piramide
 
 * v=1*3.AB.H 
 
+# calcular volumen de un cubo
+
+* El volumen de un poliedro regular se calcula multiplican la altura, por la anchura y por la profundidad. Como todas las caras del cubo son cuadradas, la altura, la anchura y la profundidad son iguales. Así, elevando al cubo, o tercera potencia, la longitud de una de sus aristas se obtendría el volumen del cubo:
+
+# Fórmula básica del volumen de un cubo
+* V es volumen a es la longitud de una de las aristas.
+Por ejemplo, si una arista mide 8 m, su volumen sería 512 m3:
+
+*![image](https://github.com/RocioHernandez00/Hagamos-pizza/assets/132408801/2116f5c2-6f32-4313-84fe-d1168caf9422)
+
+# calcular volumen de esfera 
+ * Del volumen de una esfera aplica la fórmula para el cálculo del volumen de esta figura geométrica. Para ello, indica el radio de la esfera y pulsa en «Calcular». Inmediatamente, obtendrás el resultado.
+
+# Fórmula para calcular el volumen de la esfera
+El volumen de una esfera equivale al 4/3 de su radio elevado a la tercera potencia multiplicado por el número π. En este sentido, la fórmula para hallar el volumen de una esfera es la siguiente:
+ 
+* V=4/3 π R3    
+
+*![image](https://github.com/RocioHernandez00/Hagamos-pizza/assets/132408801/e7df7879-5956-4a45-803f-6c5990452ecd)
+
+
 Algoritmo ejerciciosuma 
 	Escribir "Ingrese el primer numero:"
 	Leer variableQueGuardaElPrimerNumero
