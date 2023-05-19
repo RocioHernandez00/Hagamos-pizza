@@ -44,11 +44,13 @@
 
 volumen de cualquier piramide 
 
-* el volumen de una piramide es igual a un tercio por el area de la base por la altura de la piramide . por lo tanto , para calcular el volumen de una piramide se debe multiplicar el area de la bse por la altura de la piramide y dividir entre tres.
+* el volumen de una piramide es igual a un tercio por el area de la base por la altura de la piramide . por lo tanto , para calcular el volumen de una piramide se debe multiplicar el area de la base por la altura de la piramide y dividir entre tres.
 
 # Formula para calcular el valor de una piramide 
 
-*
+*![image](https://github.com/RocioHernandez00/Hagamos-pizza/assets/132408801/440d6ade-6ae6-4ff6-b178-0bb3d06757e5)
+
+* v=1*3.AB.H 
 
 Algoritmo ejerciciosuma 
 	Escribir "Ingrese el primer numero:"
